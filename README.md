@@ -1,3 +1,3 @@
 # github-pages-template
 
-index.html
+https://vn-cdr.github.io/my-website/
